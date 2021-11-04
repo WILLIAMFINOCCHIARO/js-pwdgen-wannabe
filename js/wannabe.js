@@ -1,7 +1,7 @@
-
-
-
-
+// Esercizio 1 
+const Name = prompt ("Qual'è il tuo nome?");
+const Surname = prompt ("Qual'è il tuo cognome?");
+const Color = prompt ("Qual'è il tuo colore preferito?");
 
 
 // Esercizio 2
